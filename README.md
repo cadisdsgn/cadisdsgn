@@ -23,3 +23,7 @@
     <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> 
   </a>
 </p>
+
+<h3 align=left">GitHub Stats</h3>
+
+| <a href="https://github.com/cadisdsgn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cadisdsgn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="cadisdsgn's github stats" /></a> | <a href="https://github.com/cadisdsgn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadisdsgn&layout=compact&theme=buefy&hide_border=true" /></a> |
