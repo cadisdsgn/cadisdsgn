@@ -1,6 +1,6 @@
 # Hi 👋, I'm Renata Santos
 
-### An enthusiastic developer
+### A budding Python developer
 
 - 🌱 I'm currently learning **Python and starting Systems Analysis and Development.**
 
