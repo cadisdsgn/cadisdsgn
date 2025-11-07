@@ -26,4 +26,5 @@
 
 <h3 align=left">GitHub Stats</h3>
 
-| <a href="https://github.com/cadisdsgn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cadisdsgn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="cadisdsgn's github stats" /></a> | <a href="https://github.com/cadisdsgn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadisdsgn&layout=compact&theme=buefy&hide_border=true" /></a> |
+![](https://github-readme-stats.vercel.app/api?username=cadisdsgn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cadisdsgn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
